@@ -7,3 +7,10 @@
 height: 500px;
 width:500px
 }
+body{
+  background-color: grey;
+}
+#spacer{
+  margin: 100px;
+
+}
