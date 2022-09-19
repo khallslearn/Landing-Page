@@ -1,5 +1,5 @@
 # Fitness Page
-THis is a simple fitness website.
+This is a simple fitness website.
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript,
